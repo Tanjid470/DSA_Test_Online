@@ -4,13 +4,4 @@ class Solution {
     }
 }
 
-/*
-First find out manual result
-1 -> 1
-2 -> 5
-3 -> 13
-4 -> 25
-5 -> 41
 
-
-You can find the pattern n suqare+ (n-1) suqaare match the all test case*/
